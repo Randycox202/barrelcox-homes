@@ -1,0 +1,1 @@
+{\n  \"$schema\": \"https://json.schemastore.org/eslintrc.json\",\n  \"extends\": \"next/core-web-vitals\",\n  \"rules\": {\n    \"@next/next/no-html-link-for-pages\": \"off\"\n  }\n}\n
